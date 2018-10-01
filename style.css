@@ -245,7 +245,7 @@ body {
     padding: 50px;
     margin: 0;
     font-family: mountains;
-    font-size:120px;
+    font-size:70px;
     background: -webkit-linear-gradient(#00d0ff, #25ffbf);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -264,7 +264,7 @@ body {
 
 @media screen and (min-width: 992px) {
     .hero-content .entry-header h2 {
-        font-size: 172px;
+        font-size: 70px;
     }
 
     .hero-content .entry-header .entry-meta-date {
