@@ -1,1 +1,1 @@
-# Hacktoberfest Open Hack Day Sri Lanka 1.0V
+# HACKTOBERFEST Open Hack Day Sri Lanka 1.0 V
